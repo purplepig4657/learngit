@@ -1,2 +1,3 @@
-Hello World!
-I'm purplepig!
+#Learn Git
+
+We're learning git and github.
